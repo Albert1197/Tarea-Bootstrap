@@ -1,2 +1,0 @@
-# Tarea-Bootstrap
-tarea Bootstrap
